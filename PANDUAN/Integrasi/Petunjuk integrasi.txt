@@ -1,0 +1,10 @@
+Petunjuk proses integrasi aplikasi ILDIS_31:
+
+1. Lakukan konfigurasi file API:
+   kode-sync2K21.php (sesuaikan username, password, dan dbname) serta view array urlDetailPeraturan (sesuaikan alamat website dan direktori aplikasi ILDIS)
+ 
+2. Panggil file API: 
+   http://localhost/ILDIS_31/PANDUAN/Integrasi/kode-sync2K21.php (sesuaikan link http://localhost/ dengan alamat website JDIH)
+
+3. Unggah file API di:
+   direktori public_html

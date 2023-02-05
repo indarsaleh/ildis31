@@ -1,0 +1,17 @@
+Petunjuk proses instalasi aplikasi ILDIS_31:
+
+1. Persiapkan hosting/vps dengan kriteria sebagai berikut:
+    - memory/storage menyesuaikan ketersediaan
+    - MySQL
+    - PHP 7.2 + modul
+    - setting max_upload menjadi 20MB atau menyesuaikan file lampiran dokumen hukum terbesar
+
+2. Lakukan konfigurasi database di:
+   common/config/main-local.php (sesuaikan username, password, dan dbname)
+
+3. Lakukan impor database dari:
+   PANDUAN/Database/lokal_kosong.sql
+
+4. Lakukan konfigurasi link website di:
+   common/config/params-local.php (sesuaikan alamat website dan direktori aplikasi ILDIS) 
+

@@ -1,0 +1,12 @@
+Petunjuk login aplikasi ILDIS_31:
+
+Buka browser ketik:
+http://localhost/ILDIS_31/backend/site/login (sesuaikan link http://localhost/ dengan alamat website)
+
+USER DEFAULT
+username: u:ildis-2021#1
+password: p:ildis-2021#2
+
+PERHATIAN!!!
+
+UNTUK KEAMANAN WEBSITE, CREATE USERNAME DAN PASSWORD BARU SERTA NONAKTIFKAN USER DEFAULT SETELAH INSTALASI APLIKASI ILDIS
